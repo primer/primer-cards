@@ -9,15 +9,10 @@ This repository is a module of the full [primer-css][primer] repository.
 
 ## Documentation
 
-You can read more about cards in the [docs][docs].
-
 <!-- %docs
 title: Cards
-homepage: https://github.com/primer/primer-cards
 status: In review
 -->
-
-### Cards
 
 Documentation & refactor coming very soon
 
